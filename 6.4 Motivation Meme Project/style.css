@@ -1,0 +1,25 @@
+body {
+    background-color: black;
+}
+.image{
+
+  
+    border: 5px solid yellow;
+    width: 100%;
+}
+
+.post{
+    width: 50%;
+    margin-left: 20%;
+    margin-top: 100px;
+    color: aliceblue;
+    font-size: 20px;
+    text-align: center;
+    font-family: "libre baskerville", serif;
+
+}
+p {
+    color: orange;
+    font-size: 30px;
+
+}
